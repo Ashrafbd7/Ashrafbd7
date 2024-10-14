@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 This is me on the internet: https://bio.link/ashrafulalam
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Always learning something new, whether it’s a new programming languag or a fun fact about space.
+- ⚡ Fun fact: Always learning something new, whether it’s a new programming language or a fun fact about space.
 
 <!---
 Ashrafbd7/Ashrafbd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
